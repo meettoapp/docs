@@ -36,7 +36,26 @@
 * [Полуфабрикаты](nomenclature/semifinished-products/README.md)
   * [Список полуфабрикатов](nomenclature/semifinished-products/list.md)
   * [Создание полуфабриката](nomenclature/semifinished-products/create.md)
-* [Меню](nomenclature/menu/README.md)
-  * [Блюда](nomenclature/menu/items.md)
-  * [Модификаторы](nomenclature/menu/modificators.md)
-  * [Стоп-лист](nomenclature/menu/stop-list.md)
+* [Модификаторы](nomenclature/modificators.md)
+* [Блюда](nomenclature/items.md)
+* [Стоп-лист](nomenclature/stop-list.md)
+
+## Справочники <a href="#reference-books" id="reference-books"></a>
+
+* [Page 1](reference-books/page-1.md)
+
+## CRM
+
+* [Page 2](crm/page-2.md)
+
+## Персонал
+
+* [Page 3](personal/page-3.md)
+
+## Аналитика <a href="#analytics" id="analytics"></a>
+
+* [Page 4](analytics/page-4.md)
+
+## Трекер задач
+
+* [Page 5](treker-zadach/page-5.md)
