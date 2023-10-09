@@ -59,3 +59,8 @@
 ## Трекер задач
 
 * [Page 5](treker-zadach/page-5.md)
+
+## POS-terminal
+
+* [Просмотр заказов](pos-terminal/orders-list.md)
+* [Создание заказа](pos-terminal/order-create.md)
