@@ -30,6 +30,13 @@
 
 ## Номенклатура <a href="#nomenclature" id="nomenclature"></a>
 
-* [Ингриденты](nomenclature/ingredients.md)
-* [Полуфабрикаты](nomenclature/semifinished-products.md)
-* [Меню](nomenclature/menu.md)
+* [Ингриденты](nomenclature/ingredients/README.md)
+  * [Список ингредиентов](nomenclature/ingredients/list.md)
+  * [Создание ингредиента](nomenclature/ingredients/create.md)
+* [Полуфабрикаты](nomenclature/semifinished-products/README.md)
+  * [Список полуфабрикатов](nomenclature/semifinished-products/list.md)
+  * [Создание полуфабриката](nomenclature/semifinished-products/create.md)
+* [Меню](nomenclature/menu/README.md)
+  * [Блюда](nomenclature/menu/items.md)
+  * [Модификаторы](nomenclature/menu/modificators.md)
+  * [Стоп-лист](nomenclature/menu/stop-list.md)
