@@ -11,11 +11,17 @@
 
 ## Предприятие <a href="#company" id="company"></a>
 
-* [Заведения](company/reservation-divisions.md)
+* [Заведения](company/reservation-divisions/README.md)
+  * [Список заведений](company/reservation-divisions/spisok-zavedenii.md)
+  * [Данные о заведении](company/reservation-divisions/dannye-o-zavedenii/README.md)
+    * [Основная информация](company/reservation-divisions/dannye-o-zavedenii/osnovnaya-informaciya.md)
+    * [Схема рассадки гостей](company/reservation-divisions/dannye-o-zavedenii/skhema-rassadki-gostei.md)
+    * [Режим работы](company/reservation-divisions/dannye-o-zavedenii/rezhim-raboty.md)
+    * [Режим бронирования](company/reservation-divisions/dannye-o-zavedenii/rezhim-bronirovaniya.md)
+  * [Удаление заведения](company/reservation-divisions/udalenie-zavedeniya.md)
 * [Склады](company/warehouses.md)
-* [Места продажи](company/sales-point.md)
 * [Места приготовления](company/cooking-points.md)
-* [Контрагенты](company/contractors.md)
+* [Места реализации](company/sales-point.md)
 * [Организации](company/organizations.md)
 * [Настройки](company/settings.md)
 
