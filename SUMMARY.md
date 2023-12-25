@@ -13,7 +13,6 @@
 
 * [Заведения](company/reservation-divisions/README.md)
   * [Список заведений](company/reservation-divisions/spisok-zavedenii.md)
-  * [Добавить заведение](company/reservation-divisions/dobavit-zavedenie.md)
   * [Данные о заведении](company/reservation-divisions/dannye-o-zavedenii/README.md)
     * [Основная информация](company/reservation-divisions/dannye-o-zavedenii/osnovnaya-informaciya.md)
     * [Схема рассадки гостей](company/reservation-divisions/dannye-o-zavedenii/skhema-rassadki-gostei.md)
