@@ -2,7 +2,7 @@
 
 <mark style="color:purple;">**Web-версия:**</mark>
 
-Для добавления нового заведения, необходимо нажать на кнопку "Новое заведение" в правом верхнем углу: <img src="../../../.gitbook/assets/image (2).png" alt="" data-size="original">
+Для добавления нового заведения, необходимо нажать на кнопку "Новое заведение" в правом верхнем углу: <img src="../../../.gitbook/assets/image (2) (1).png" alt="" data-size="original">
 
 Далее в открывшемся окне необходимо добавить данные о заведении:&#x20;
 
@@ -13,6 +13,6 @@
 
 Для перехода в форму редактирования раздела, необходимо нажать на соответствующую вкладку:
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:purple;">**Мобильное приложение:**</mark>
