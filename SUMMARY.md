@@ -22,7 +22,8 @@
 * [Склады](company/warehouses.md)
 * [Места приготовления](company/cooking-points.md)
 * [Места реализации](company/sales-point.md)
-* [Организации](company/organizations.md)
+* [Организации](company/organizations/README.md)
+  * [Список организаций](company/organizations/spisok-organizacii.md)
 * [Настройки](company/settings.md)
 
 ## Бронирование <a href="#reservation" id="reservation"></a>
