@@ -52,7 +52,7 @@
 
 ## CRM
 
-* [Page 2](crm/page-2.md)
+* [Клиенты (клиентская база)](crm/klienty-klientskaya-baza.md)
 
 ## Персонал
 
@@ -60,11 +60,11 @@
 
 ## Аналитика <a href="#analytics" id="analytics"></a>
 
-* [Page 4](analytics/page-4.md)
+* [Аналитика бронирования](analytics/analitika-bronirovaniya.md)
 
 ## Трекер задач
 
-* [Page 5](treker-zadach/page-5.md)
+* [Создание новой задачи в таск-трекере](treker-zadach/sozdanie-novoi-zadachi-v-task-trekere.md)
 
 ## POS-terminal
 
